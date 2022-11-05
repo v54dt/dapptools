@@ -3,7 +3,7 @@
 #include <gmp.h>
 #include <stdio.h>
 
-#include <libff/algebra/fields/bigint.hpp>
+#include <libff/algebra/fields_utils/bigint.hpp>
 #include <libff/algebra/curves/alt_bn128/alt_bn128_init.hpp>
 #include <libff/algebra/curves/alt_bn128/alt_bn128_g1.hpp>
 #include <libff/algebra/curves/alt_bn128/alt_bn128_g2.hpp>
